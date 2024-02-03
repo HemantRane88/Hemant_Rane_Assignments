@@ -6,7 +6,7 @@ public class Prime_No
 	public static void main(String args[])
 	{
 		int no,count=0;
-		System.out.println("Enter any number");//3
+		System.out.println("Enter any number   ");//3
 		Scanner sc=new Scanner(System.in);
 		no=sc.nextInt();
 		for(int i=1;i<=no;i++)//no=3 1<=3 2<=3 3<=3
